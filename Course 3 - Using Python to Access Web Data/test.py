@@ -1,4 +1,5 @@
 x = list()
 y = 'Testing Editor'
-x = x.append(y)
-print(x)
+x.append(y)
+for line in x[0].split():
+    print(line)
