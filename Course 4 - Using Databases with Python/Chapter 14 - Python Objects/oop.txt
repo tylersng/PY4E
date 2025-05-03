@@ -1,0 +1,25 @@
+Class - A template (A Cookie Cutter is a class where the cookie is the object or instance)
+Abstract template of an Object
+
+Object / Instance - A particular Instance of a class
+Use the template to make one 
+
+Method / Message - A defined capability of a class
+Method are verbs like telling it to do something, string.reverse() or like bark()
+dir(x) / dir(y) -> show methods of the instance 
+
+Field / Attribute - A bit of data in a class
+
+Object Life Cycle:
+Objects are created, used and discarded
+We have methods for constructor and destructor
+
+constructor:
+Set up some instance variable to have proper initial values when created
+
+destructor:
+__del__( self) : to clean the memory when you override the variable 
+
+Inheritence:
+Extend the base class, a form of store and reuse avoid repeating
+When we make a new class - we can reuse an existing class and inherit all the existing methods
