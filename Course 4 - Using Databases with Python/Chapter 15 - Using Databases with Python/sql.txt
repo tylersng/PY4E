@@ -1,0 +1,5 @@
+CRUD
+Create a table
+Retrieve some data
+Insert data
+Delete Data / Update
