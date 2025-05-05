@@ -1,0 +1,3 @@
+Primary Key - Unique varible in  TABLE
+Foreign Key - Unique attribute of another table in this current table
+Logical Key - A way to describe (For example Album Title)
