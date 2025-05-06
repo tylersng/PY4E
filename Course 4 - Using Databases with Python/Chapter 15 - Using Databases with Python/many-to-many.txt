@@ -1,0 +1,5 @@
+junction table
+
+course (id , title) 
+user (id, name, email)
+member (user_id, course_id)
