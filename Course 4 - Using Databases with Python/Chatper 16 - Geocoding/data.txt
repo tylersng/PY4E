@@ -1,0 +1,12 @@
+multi-step process
+First step is Retrieval: Gather (Extract)
+-> Clean / Process the data
+-> Find out the parts that need to be reprocessed
+-> Analyze the data / Visualization 
+
+Data Mining Technologies: 
+Hadoop apache
+Spark apache
+Redshift
+Pentaho 
+Best practices ^
